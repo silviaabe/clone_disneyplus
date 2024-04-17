@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
     })
   }
 
-  for (let i=0; i < questions.length; i++) {
+  for (let i = 0; i < questions.length; i++) {
     questions[i].addEventListener('click', abreOuFechaResposta);
   }
 })
