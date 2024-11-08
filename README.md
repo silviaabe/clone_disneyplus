@@ -1,6 +1,6 @@
 # Disney Plus
 
-  Este é um projeto do clone da página inicial do site Disney+, desenvolvido com <b>HTML</b>, <b>JavaScript</b>, <b>SASS</b> e <b>Gulp</b>, seguindo um exercício do [curso de Engenheiro Front-End](https://ebaconline.com.br/front-end-profession) da EBAC.
+  Este é um projeto do clone da página inicial do site Disney+, desenvolvido com <b>HTML</b>, <b>SASS</b>, <b>JavaScript</b> e <b>Gulp</b>, seguindo um exercício do [curso de Engenheiro Front-End](https://ebaconline.com.br/front-end-profession) da EBAC.
 
 <br>
 
